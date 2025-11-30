@@ -1,6 +1,6 @@
 .userProfile {
   width: 320px;
-  margin: 0 auto;
+  margin: 0px auto 20px auto;
   border: 2px solid rgb(33, 37, 37);
   border-radius: 10px;
   overflow: hidden;
